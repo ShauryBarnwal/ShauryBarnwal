@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShauryaXcodes&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ShauryaXcodes?color=7dd3fc&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=ShauryBarnwal&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ShauryBarnwal?color=7dd3fc&style=flat-square&label=Followers)
 
 </div>
 
@@ -37,8 +37,8 @@ const shaurya = {
 #### 🤖 AI-CHATBOT
 An AI chatbot built as a college project — powered by **Sarvam AI**, an Indian AI startup's API. Not fully optimized yet, but it's my first project and a solid learning milestone.
 
-<a href="https://github.com/ShauryaXcodes/AI-CHATBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShauryaXcodes&repo=AI-CHATBOT&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<a href="https://github.com/ShauryBarnwal/AI-CHATBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShauryBarnwal&repo=AI-CHATBOT&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </a>
 
 | Layer | Technology |
@@ -47,15 +47,15 @@ An AI chatbot built as a college project — powered by **Sarvam AI**, an Indian
 | AI API | Sarvam AI |
 | Deployment | Vercel |
 
-🔗 [Live](https://ai-chatbot-bay-two-89.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ShauryaXcodes/AI-CHATBOT)
+🔗 [Live](https://ai-chatbot-bay-two-89.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ShauryBarnwal/AI-CHATBOT)
 
 <br/>
 
 #### 🚗 Vehicle Lookup
 An Indian vehicle lookup site that surfaces publicly available information about any vehicle from across the internet. It only aggregates freely available public data — not a data-breaching tool.
 
-<a href="https://github.com/ShauryaXcodes/vehicle-lookup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShauryaXcodes&repo=vehicle-lookup&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<a href="https://github.com/ShauryBarnwal/vehicle-lookup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShauryBarnwal&repo=vehicle-lookup&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </a>
 
 | Layer | Technology |
@@ -63,7 +63,7 @@ An Indian vehicle lookup site that surfaces publicly available information about
 | Language | JavaScript |
 | Deployment | Vercel |
 
-🔗 [Live](https://vehicle-lookup-tau.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ShauryaXcodes/vehicle-lookup)
+🔗 [Live](https://vehicle-lookup-tau.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/ShauryBarnwal/vehicle-lookup)
 
 ---
 
@@ -79,10 +79,10 @@ An Indian vehicle lookup site that surfaces publicly available information about
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShauryaXcodes&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaXcodes&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShauryBarnwal&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryBarnwal&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=ShauryaXcodes&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=ShauryBarnwal&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
@@ -91,14 +91,14 @@ An Indian vehicle lookup site that surfaces publicly available information about
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShauryaXcodes&theme=nord&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShauryBarnwal&theme=nord&no-frame=true&no-bg=true&column=7" />
 </div>
 
 ---
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaXcodes&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryBarnwal&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
 
 ---
 
